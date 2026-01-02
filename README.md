@@ -40,6 +40,7 @@ The primary objective is to derive data-driven insights by calculating critical 
 * Most used dialysis stations
 * Underutilised dialysis stations
 * Patients payment methods
+  
 
 
 ## 2. Data Cleaning & Pre-Processing (Python – Pandas)
@@ -64,36 +65,37 @@ The primary objective is to derive data-driven insights by calculating critical 
 * Prepared refined datasets for efficient visualization and analysis in Power BI.
 
 
+
 # 3. EDA - Exploratory data analysis Key Insights
 1️ Patients per facility(Hospitals)
 * CityCare Hospital has the highest patient count (22), indicating higher patient inflow and utilization.
 * MediLife Center, Wellness Clinic, and Unknown facilities each account for 11 patients, showing relatively balanced 
   distribution among secondary facilities.
 * Suggests that patient preference or referral patterns may be stronger for CityCare Hospital.
-![Image](<img width="367" height="261" alt="patient per facility" src="https://github.com/user-attachments/assets/8ae72886-178f-450b-81a6-03de4785efc0" />)
+![Image](https://github.com/user-attachments/assets/8ae72886-178f-450b-81a6-03de4785efc0)
 
 2️ Monthly Revenue
 * Revenue remains relatively stable between 19K–25K throughout most of 2024.
 * Peak revenue observed in July (25K), indicating possible seasonal or operational efficiency improvements.
 * A sharp decline to 10K in January 2025 suggests seasonal slowdown, reporting cut-off, or reduced patient visits.
 * Overall trend reflects consistent revenue generation with occasional fluctuations.
-![Image](<img width="621" height="263" alt="monthly revenue" src="https://github.com/user-attachments/assets/5f1cc09c-0d02-44e3-aa13-7be0185eda0d" />)
+![Image](https://github.com/user-attachments/assets/5f1cc09c-0d02-44e3-aa13-7be0185eda0d)
 
 3️ Most utilised and underutilised dialysis stations
 * Station_4 has the highest usage (18 sessions), indicating higher demand or better operational efficiency.
 * Station_2 and Station_5 show lower utilization, suggesting scope for workload redistribution or optimization.
-![Image](<img width="251" height="218" alt="dialysis usage" src="https://github.com/user-attachments/assets/f57ad014-1863-4520-a8f5-2c1eef7f9932" />)
+![Image](https://github.com/user-attachments/assets/f57ad014-1863-4520-a8f5-2c1eef7f9932)
 
 4 Patients payment methods
 * Insurance dominates payments (40%), highlighting dependency on insured patients.
 * Cash, Government Aid, and Unknown modes each contribute ~20%, indicating diversified payment sources.
-![Image](<img width="328" height="297" alt="payment mode" src="https://github.com/user-attachments/assets/31bcffe3-a1b2-4beb-b12b-a11ccc2a7af7" />)
+![Image](https://github.com/user-attachments/assets/31bcffe3-a1b2-4beb-b12b-a11ccc2a7af7)
 
 6 No.of facilities belong to each chain oraganisations
 * HealthPlus chain has the highest facility presence, contributing significantly to patient volume.
 * MediLife Group and Independent facilities show moderate participation.
 * Presence of Unknown facilities indicates possible data gaps or unclassified entities.
-![Image](<img width="571" height="214" alt="facility each chain" src="https://github.com/user-attachments/assets/1d240856-dbd4-4a50-a177-e5794df5526f" />)
+![Image](https://github.com/user-attachments/assets/1d240856-dbd4-4a50-a177-e5794df5526f)
 
 
 
